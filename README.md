@@ -8,5 +8,5 @@ wget -O accert https://raw.githubusercontent.com/alkhanet26/cert/main/acme_cli.s
 cert for marzban
 
 ```
-wget -O accert https://raw.githubusercontent.com/alkhanet26/cert/main/acme_marzban.sh && chmod +x /root/accert
+wget -O accert https://raw.githubusercontent.com/alkhanet26/cert/acme_marzban.sh && chmod +x /root/accert
 ```
